@@ -3,8 +3,6 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image"; // Importación para optimización de imágenes
 import { motion } from "framer-motion";
 import {
-  Github,
-  Linkedin,
   Mail,
   FileText,
   Moon,
@@ -16,6 +14,7 @@ import {
   Layout,
   PenTool,
 } from "lucide-react";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import data from "./data.json";
 
 // --- DEFINICIÓN DE TIPOS (Para solucionar errores de TypeScript) ---
@@ -110,13 +109,13 @@ export default function Portfolio() {
                   href={data.profile.social.github}
                   className="hover:text-orange-500 transition"
                 >
-                  <Github size={24} />
+                  <FaGithub size={24} />
                 </a>
                 <a
                   href={data.profile.social.linkedin}
                   className="hover:text-orange-500 transition"
                 >
-                  <Linkedin size={24} />
+                  <FaLinkedin size={24} />
                 </a>
                 <a
                   href={data.profile.social.email}

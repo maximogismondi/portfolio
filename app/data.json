@@ -1,0 +1,116 @@
+{
+    "profile": {
+        "name": "Máximo Gismondi",
+        "role": "Desarrollador de Software",
+        "description": "Apasionado por la ciencia, matemática e ingeniería. Especializado en desarrollo de software, automatización y organización de información. Detallista, resolutivo y con capacidad de liderazgo en equipos técnicos.",
+        "avatarUrl": "/perfil.jpeg",
+        "resumeUrl": "/cv.pdf",
+        "social": {
+            "github": "https://github.com/maximogismondi",
+            "linkedin": "https://linkedin.com/in/maximogismondi",
+            "email": "mailto:maximogismondi@gmail.com"
+        }
+    },
+    "skills": {
+        "core": [
+            "Rust",
+            "Go",
+            "C",
+            "Python",
+            "Java"
+        ],
+        "frontend": [
+            "React Native",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "backend": [
+            "Node.js",
+            "API REST",
+            "SQL",
+            "NoSQL",
+            "Firebase"
+        ],
+        "infrastructure": [
+            "Sistemas Distribuidos",
+            "Redes",
+            "Ciberseguridad"
+        ],
+        "tools": [
+            "Jira",
+            "Power Platform",
+            "Git",
+            "Adobe Illustrator"
+        ]
+    },
+    "experience": [
+        {
+            "company": "Asociación de Cooperativas Argentinas",
+            "role": "Desarrollador de Software - ITSM en Jira",
+            "period": "Junio 2022 - Actualidad",
+            "description": "Desarrollo y mantenimiento de soluciones de software para la gestión de servicios de TI (ITSM) utilizando Jira."
+        },
+        {
+            "company": "FIUBA - Sistemas Distribuidos",
+            "role": "Ayudante de Cátedra (Roca)",
+            "period": "Julio 2025 - Actualidad",
+            "description": "Colaboración docente en la materia de Sistemas Distribuidos, asistiendo en contenidos teóricos y prácticos sobre arquitecturas escalables."
+        },
+        {
+            "company": "Instituto Politécnico Modelo",
+            "role": "Docente de Gestión de Procesos Productivos",
+            "period": "Mayo 2024 - Julio 2025",
+            "description": "Docencia a cargo de alumnos de sexto año, enfocada en la gestión y optimización de procesos productivos."
+        },
+        {
+            "company": "FIUBA - Algoritmos y Estructuras de Datos",
+            "role": "Ayudante de Cátedra (Butchwald)",
+            "period": "Julio 2023 - Actualidad",
+            "description": "Asistencia académica en fundamentos de programación, algoritmos y estructuras de datos."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Sistema de Gestión de Flotas",
+            "description": "Sistema completo (web/mobile + backend) para el mantenimiento de flotas vehiculares en una empresa con más de 400 vehículos.",
+            "tags": [
+                "Full Stack",
+                "Mobile",
+                "Backend"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "Gestión Educativa de Cursos",
+            "description": "Aplicación integral orientada a la educación para la administración y gestión de cursos y contenidos académicos.",
+            "tags": [
+                "Education",
+                "Management",
+                "Web"
+            ],
+            "link": "#"
+        },
+        {
+            "title": "Soluciones Web Comerciales",
+            "description": "Desarrollo de páginas y plataformas web a medida para diversos comercios y entidades de capacitación.",
+            "tags": [
+                "Web Design",
+                "Frontend",
+                "Comercio"
+            ],
+            "link": "#"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Facultad de Ingeniería, UBA",
+            "degree": "Ingeniería en Informática",
+            "period": "2021 - Presente (Promedio: 8.88)"
+        },
+        {
+            "institution": "Instituto Politécnico Modelo",
+            "degree": "Técnico en Informática",
+            "period": "2016 - 2021 (Promedio: 9)"
+        }
+    ]
+}
